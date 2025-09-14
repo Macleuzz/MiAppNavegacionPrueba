@@ -1,6 +1,6 @@
-# 🎉 NombreApp 🎉
+# 🎉 MIAPPNAVEGACION 🎉
 
-**NombreApp** es una aplicación sencilla donde puedes escribir un nombre y cargarlo en la pantalla. Ideal para demostraciones rápidas o como base para proyectos más complejos. 😎
+**MIAPPNAVEGACION** es una aplicación sencilla donde puedes escribir un nombre y cargarlo en la pantalla. Ideal para demostraciones rápidas o como base para proyectos más complejos. 😎
 
 ## 🚀 Características
 
@@ -24,6 +24,3 @@ Abre la página en tu navegador.
 
 Si quieres ayudar a mejorar este proyecto, puedes hacer un fork y enviar un pull request. ¡Toda contribución es bienvenida! 🤝
 
-📜 Licencia
-
-Este proyecto está bajo la licencia MIT. 📝
